@@ -1,0 +1,10 @@
+first line hello git.txt
+hello git.txt
+hello git.txt
+hello git.txt
+hello git.txt
+hello git.txt
+hello git.txt
+hello git.txt
+hello git.txt
+last line

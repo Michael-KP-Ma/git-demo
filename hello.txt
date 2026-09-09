@@ -6,5 +6,5 @@ hello git.txt
 hello git.txt
 hello git.txt
 hello git.txt master test
-hello git.txt
+hello git.txt hot-fix test
 last line
